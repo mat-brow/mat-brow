@@ -1,6 +1,14 @@
 # Hey there! I'm Matheus Brito👋
 🔭 Currently improving my skills in Lua and C++.
 📚 Experience with HTML and Java
+<!--Aqui colocar Top Languages -->
+
+<!--Ícone Lua  -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" width="65" height="65"/>
+<!--Ícone Java -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60"/>
+<!--HTML -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60"/>
 
 <div>
 <a href="https://github.com/mat-brow">

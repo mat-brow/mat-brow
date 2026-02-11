@@ -1,23 +1,32 @@
 # Hey there! I'm Matheus Brito👋
-🔭 Currently improving my skills in Lua and C++.
-📚 Experience with HTML and Java
+🔭 Currently improving my skills in **Lua** and **C++**.
+📚 Experience with **HTML** and **Java**
 <!--Aqui colocar Top Languages -->
-
-<!--Ícone Lua  -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" width="65" height="65"/>
-<!--Ícone Java -->
+<div>
+<!--Ícone Lua abaixo-->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" width="60" height="60"/>
+<!--Ícone C++ abaixo-->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="60" height="60"/>
+<!--Ícone Java abaixo-->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60"/>
-<!--HTML -->
+<!--Ícone HTML abaixo-->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60"/>
+</div>
+<!--Most Used Languages -->
+<div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mat-brow&layout=compact&theme=dracula&cache_seconds=1"/>
+</div>
 
 <div>
 <a href="https://github.com/mat-brow">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mat-brow&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mat-brow&layout=compact&langs_count=16&theme=dracula"/>
 </div>
-<!--
-<https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-  
+<!--Gmail Image -->
+  <h3>📫How to reach me:</h3>
+<a href="https://github.com/mat-brow">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+
 <!--
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...

@@ -1,6 +1,6 @@
 # Hey there! I'm Matheus Brito👋
 🔭 Currently improving my skills in **Lua** and **C++**.
-📚 Experience with **HTML** and **Java**
+<h3>📚 Languages & Technologies</h3>
 <!--Aqui colocar Top Languages -->
 <div>
 <!--Ícone Lua abaixo-->

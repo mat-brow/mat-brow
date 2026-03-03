@@ -4,15 +4,14 @@
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
   <!--Ícone Lua abaixo-->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" width="50" height="50"/>
-  <!--Ícone C++ abaixo-->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/>
   <!--Ícone Java abaixo-->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/>
-  <!--Ícone HTML abaixo-->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
-  <!--Ícone Love2D abaixo-->
+    <!--Ícone Love2D abaixo-->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/love2d/love2d-original.svg" width="50" height="50"/>
-          
+  <!--Ícone C++ abaixo-->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/>
+    <!--Ícone HTML abaixo-->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
 </div>
 <!--Most Used Languages -->
 <div>

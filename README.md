@@ -12,7 +12,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/>
     <!--Ícone HTML abaixo-->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
-  <h3>🖥️IDEs used</h3>
+<!--Ícone Kotlin abaixo-->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="50" height="50" />
+  
+  <h3>🖥️ IDEs used</h3>
   <!--Ícone NetBeans abaixo l-->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netbeans/netbeans-original.svg" width="50" height="50"/>
   <!--Ícone VSCode abaixo-->
@@ -28,7 +31,7 @@
 <a href="https://github.com/mat-brow">
 </div>
 <!--Gmail Image -->
-  <h3>📫How to reach me:</h3>
+  <h3>📫 How to reach me:</h3>
 <a href="https://github.com/mat-brow">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>

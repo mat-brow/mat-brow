@@ -1,4 +1,6 @@
 # Hey there! I'm Matheus Brito👋
+🌱 I'm 16 years old
+🔥 Learning something new every day.
 🔭 Currently improving my skills in **Lua**, **Java** and **Love2D**.
 <h3>📚 Languages & Technologies I use</h3>
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">

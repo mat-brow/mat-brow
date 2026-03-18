@@ -3,24 +3,27 @@
 <h3>📚 Languages & Technologies I use</h3>
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
   <!--Ícone Lua abaixo-->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" width="50" height="50" />
   <!--Ícone Java abaixo-->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" />
     <!--Ícone Love2D abaixo-->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/love2d/love2d-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/love2d/love2d-original.svg" width="50" height="50" />
   <!--Ícone C++ abaixo-->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="50" height="50" />
     <!--Ícone HTML abaixo-->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" />
 <!--Ícone Kotlin abaixo-->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="50" height="50" />
   
   <h3>🖥️ IDEs used</h3>
   <!--Ícone NetBeans abaixo l-->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netbeans/netbeans-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netbeans/netbeans-original.svg" width="50" height="50" />
   <!--Ícone VSCode abaixo-->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="50" height="50" />
+  <!--Ícone Android Studio abaixo-->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="50" height="50" />
           
+  
 </div>
 <!--Most Used Languages -->
 <div>

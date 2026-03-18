@@ -1,6 +1,6 @@
 # Hey there! I'm Matheus Brito👋
 🔭 Currently improving my skills in **Lua**, **Java** and **Love2D**.
-<h3>📚 Languages & Technologies</h3>
+<h3>📚 Languages & Technologies I use</h3>
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
   <!--Ícone Lua abaixo-->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" width="50" height="50"/>
@@ -12,6 +12,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/>
     <!--Ícone HTML abaixo-->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
+  <h3>🖥️IDEs used</h3>
+  <!--Ícone NetBeans abaixo l-->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netbeans/netbeans-original.svg" width="50" height="50"/>
+  <!--Ícone VSCode abaixo-->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="50" height="50"/>
+          
 </div>
 <!--Most Used Languages -->
 <div>
